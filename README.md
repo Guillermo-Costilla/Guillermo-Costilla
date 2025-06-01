@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Guillermo, Desarrollador de software.
+👋 ¡Hola! Soy Guillermo, Desarrollador de software Full Stack.
 
 Hola! 😃👋🏻 Mi nombre es Guille, me considero una persona creativa, apasionada por la tecnología, con buena energía y siempre listo para resolver problemas. Mi objetivo principal es crecer profesionalmente y evolucionar constantemente dentro del mundo IT.
 
