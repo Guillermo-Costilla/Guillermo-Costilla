@@ -1,6 +1,6 @@
-👋 ¡Hola! Soy Guillermo, Desarrollador de software Full Stack.
+👋 ¡Hola! Soy Guillermo, Desarrollador de software Full Stack & Data Analyst.
 
-Hola! 😃👋🏻 Mi nombre es Guille, me considero una persona creativa, apasionada por la tecnología, con buena energía y siempre listo para resolver problemas. Mi objetivo principal es crecer profesionalmente y evolucionar constantemente dentro del mundo IT.
+Me considero una persona creativa, apasionada por la tecnología, con buena energía y siempre listo para resolver problemas. Mi objetivo principal es crecer profesionalmente y evolucionar constantemente dentro del mundo IT.
 
 Estoy entusiasmado por las oportunidades que el futuro tiene preparadas y por la posibilidad de seguir aprendiendo y creciendo en el desarrollo de software. Me motivan los nuevos desafíos y me encanta aportar valor con creatividad, dedicación y habilidades técnicas.
 
@@ -28,3 +28,4 @@ Me gusta jugar al fútbol ⚽, ver películas 🍿 y disfrutar de buenos momento
 ### 📫 ¿Cómo contactarme?
 - [LinkedIn](https://www.linkedin.com/in/guillermo-costilla-6772a725a/)
 - **Email:** gcostilla96@gmail.com
+- **Portafolios:** https://portfolio-gc-sand.vercel.app/
