@@ -10,8 +10,8 @@ Trabajo principalmente con el stack MERN (MongoDB, Express, React, Node Js), des
 ---
 
 ## 🧩 Proyectos destacados
+### ⭐🥇 E-commerce Full Stack — Pagos con Stripe
 
-### 🥇 E-commerce Full Stack — Pagos con Stripe  
 Plataforma de ecommerce con flujo completo de compra, integración de pagos reales con Stripe y panel administrativo.
 
 - 🔐 Autenticación con JWT  
@@ -19,8 +19,9 @@ Plataforma de ecommerce con flujo completo de compra, integración de pagos real
 - 💳 Pagos online con Stripe  
 - 📊 Panel admin con métricas  
 
-🔗 [Código](https://github.com/Guillermo-Costilla/store-backend)  
-🌐 [Demo](https://store-backend-pied.vercel.app/api)
+- 🔗 [Frontend](https://github.com/Guillermo-Costilla/crm-gym)
+- 🔗 [Backend](https://github.com/Guillermo-Costilla/store-backend)  
+- 🌐 [Demo](https://store-backend-pied.vercel.app/api)
 
 ---
 
@@ -32,9 +33,9 @@ Aplicación para administrar clientes, pagos, asistencias y métricas con automa
 - 📅 Registro de asistencias (QR/DNI)  
 - 📧 Notificaciones automáticas y cron jobs  
 
-🔗 [Frontend](https://github.com/Guillermo-Costilla/crm-gym)  
-🔗 [Backend](https://github.com/Guillermo-Costilla/backend-gym)  
-🌐 [Demo](https://crm-gym-pi.vercel.app)
+- 🔗 [Frontend](https://github.com/Guillermo-Costilla/crm-gym)  
+- 🔗 [Backend](https://github.com/Guillermo-Costilla/backend-gym)  
+- 🌐 [Demo](https://crm-gym-pi.vercel.app)
 
 ---
 
@@ -46,9 +47,9 @@ Aplicación tipo red social para viajeros con gestión de itinerarios y comunida
 - 💬 Interacción entre usuarios  
 - ⚡ Frontend animado y dinámico  
 
-🔗 [Frontend](https://github.com/Guillermo-Costilla/mytinerary-app)  
-🔗 [Backend](https://github.com/Guillermo-Costilla/mytinerary-back-guillermocostilla)  
-🌐 [Demo](https://mytinerary-sso4.vercel.app/)
+- 🔗 [Frontend](https://github.com/Guillermo-Costilla/mytinerary-app)  
+- 🔗 [Backend](https://github.com/Guillermo-Costilla/mytinerary-back-guillermocostilla)  
+- 🌐 [Demo](https://mytinerary-sso4.vercel.app/)
 
 ---
 
