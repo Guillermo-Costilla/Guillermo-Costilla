@@ -1,68 +1,96 @@
 ## 👋 ¡Hola! Soy Guillermo  
-### 💻 Full Stack Developer & 📊 Data Analyst
+### 💻 Full Stack Developer (MERN)
 
-Soy un desarrollador Full Stack con enfoque en análisis de datos, apasionado por transformar datos en información valiosa y construir soluciones tecnológicas eficientes.
+Desarrollador Full Stack enfocado en construir aplicaciones web reales, escalables y orientadas a negocio.
 
-Me considero una persona creativa, proactiva y orientada a resultados, con una fuerte motivación por el aprendizaje continuo. Disfruto enfrentar nuevos desafíos, optimizar procesos y aportar valor combinando desarrollo de software con análisis de datos.
+Trabajo principalmente con el stack MERN (MongoDB, Express, React, Node Js), desarrollando frontend y backend, con foco en arquitectura, lógica de negocio y experiencia de usuario.
 
-🚀 Actualmente enfocado en seguir creciendo en el mundo IT, integrando desarrollo, visualización de datos y toma de decisiones basada en datos.
-
----
-
-## 📊 Data Analytics Stack
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+🚀 Actualmente enfocado en desarrollo web profesional.
 
 ---
 
-## 🚀 Development Stack
+## 🧩 Proyectos destacados
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+### 🥇 E-commerce Full Stack — Pagos con Stripe  
+Plataforma de ecommerce con flujo completo de compra, integración de pagos reales con Stripe y panel administrativo.
+
+- 🔐 Autenticación con JWT  
+- 🛒 Gestión de productos, usuarios y órdenes  
+- 💳 Pagos online con Stripe  
+- 📊 Panel admin con métricas  
+
+🔗 [Código](https://github.com/Guillermo-Costilla/store-backend)  
+🌐 [Demo](https://store-backend-pied.vercel.app/api)
 
 ---
 
-## 🎯 Sobre mí
+### 🥈 CRM Gym — Sistema de gestión para gimnasios  
+Aplicación para administrar clientes, pagos, asistencias y métricas con automatización de procesos.
 
-- 🔍 Enfoque en análisis de datos y visualización
-- 💡 Resolución de problemas con pensamiento analítico
-- 📈 Interés en data-driven decision making
-- 🤝 Abierto a colaborar en proyectos y nuevas oportunidades
+- 👥 Gestión de clientes  
+- 💳 Control de pagos y vencimientos  
+- 📅 Registro de asistencias (QR/DNI)  
+- 📧 Notificaciones automáticas y cron jobs  
+
+🔗 [Frontend](https://github.com/Guillermo-Costilla/crm-gym)  
+🔗 [Backend](https://github.com/Guillermo-Costilla/backend-gym)  
+🌐 [Demo](https://crm-gym-pi.vercel.app)
 
 ---
 
-## 🕹️ Fuera del código
+### 🥉 My Itinerary — Plataforma social de viajes  
+Aplicación tipo red social para viajeros con gestión de itinerarios y comunidad.
 
-Cuando no estoy programando, disfruto:
-- ⚽ Jugar al fútbol  
-- 🍿 Ver películas  
-- 🥰 Compartir tiempo con mi familia  
+- 👤 Autenticación y roles  
+- 🌍 Gestión de destinos e itinerarios  
+- 💬 Interacción entre usuarios  
+- ⚡ Frontend animado y dinámico  
+
+🔗 [Frontend](https://github.com/Guillermo-Costilla/mytinerary-app)  
+🔗 [Backend](https://github.com/Guillermo-Costilla/mytinerary-back-guillermocostilla)  
+🌐 [Demo](https://mytinerary-sso4.vercel.app/)
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+HTML5 · CSS3 · JavaScript · React · Vite · Tailwind CSS  
+
+### Backend
+Node.js · Express  
+
+### Bases de datos
+MongoDB · SQL Server · MySQL · SQLite / Turso  
+
+### Herramientas
+Zustand · Redux · JWT · Stripe · Nodemailer  
+
+---
+
+## 🎯 En qué me enfoco
+
+- 🧠 Resolver problemas con lógica clara  
+- ⚙️ Construir APIs y lógica de negocio  
+- 🎨 Crear interfaces simples y funcionales  
+- 📦 Escribir código limpio y mantenible  
+
+---
+
+## 🧩 Actualmente
+
+- Profundizando JavaScript para mejorar profesionalmente  
+- Construyendo proyectos full stack reales  
+- Aprendiendo análisis de datos (complementario)  
 
 ---
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-costilla-6772a725a/)
-- 📧 **Email:** gcostilla96@gmail.com  
-- 🌐 **Portfolio:** https://portfolio-gc-sand.vercel.app/
+- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-costilla-6772a725a/)  
+- 📧 gcostilla.dev@gmail.com 
+- 🌐 https://portfolio-gc-sand.vercel.app/  
 
 ---
 
-⭐ ¡Gracias por visitar mi perfil! Estoy abierto a conectar, colaborar y crecer profesionalmente.
+⭐ Abierto a oportunidades como Full Stack Developer.
