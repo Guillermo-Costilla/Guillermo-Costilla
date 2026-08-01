@@ -1,97 +1,60 @@
-## 👋 ¡Hola! Soy Guillermo  
-### 💻 Full Stack Developer (MERN)
+## 👋 ¡Hola! Soy Guillermo
+### 📊 Analista de Datos | BI & Reporting
 
-Desarrollador Full Stack enfocado en construir aplicaciones web reales, escalables y orientadas a negocio.
+Convierto datos crudos en información que se puede usar para decidir. Modelo bases de datos relacionales, construyo dashboards funcionales y traduzco preguntas de negocio en métricas claras.
 
-Trabajo principalmente con el stack MERN (MongoDB, Express, React, Node Js), desarrollando frontend y backend, con foco en arquitectura, lógica de negocio y experiencia de usuario.
+Vengo del desarrollo de software, así que entiendo el dato tanto en su origen (bases de datos, lógica de sistemas) como en cómo se consume del otro lado de la pantalla — eso me da una mirada distinta a la hora de diseñar un modelo o una visualización.
 
-🚀 Actualmente enfocado en desarrollo web profesional.
-
----
-
-## 🧩 Proyectos destacados
-### ⭐🥇 E-commerce Full Stack — Pagos con Stripe
-
-Plataforma de ecommerce con flujo completo de compra, integración de pagos reales con Stripe y panel administrativo.
-
-- 🔐 Autenticación con JWT  
-- 🛒 Gestión de productos, usuarios y órdenes  
-- 💳 Pagos online con Stripe  
-- 📊 Panel admin con métricas  
-
-- 🔗 [Frontend](https://github.com/Guillermo-Costilla/crm-gym)
-- 🔗 [Backend](https://github.com/Guillermo-Costilla/store-backend)  
-- 🌐 [Demo](https://store-backend-pied.vercel.app/api)
+🚀 Actualmente enfocado en análisis de datos y Business Intelligence.
 
 ---
 
-### 🥈 CRM Gym — Sistema de gestión para gimnasios  
-Aplicación para administrar clientes, pagos, asistencias y métricas con automatización de procesos.
+## 🧩 Proyectos
 
-- 👥 Gestión de clientes  
-- 💳 Control de pagos y vencimientos  
-- 📅 Registro de asistencias (QR/DNI)  
-- 📧 Notificaciones automáticas y cron jobs  
+Repositorio completo de proyectos de BI: [powerbi-projects](https://github.com/Guillermo-Costilla/powerbi-projects)
 
-- 🔗 [Frontend](https://github.com/Guillermo-Costilla/crm-gym)  
-- 🔗 [Backend](https://github.com/Guillermo-Costilla/backend-gym)  
-- 🌐 [Demo](https://crm-gym-pi.vercel.app)
+Cada proyecto incluye modelado de base de datos, medidas DAX y visualización final en Power BI, orientados a responder preguntas de negocio concretas — no ejercicios de tutorial.
 
----
+- **Retail Sales Dashboard** — Pipeline end-to-end sobre 200.000 registros de ventas, con modelo en esquema estrella y análisis de rentabilidad por categoría, región y producto.
+- **Customer Experience (NPS)** — Dashboard de satisfacción del cliente con medidas DAX personalizadas y segmentación por brechas de experiencia.
+- **Análisis de RRHH** — Indicadores de recursos humanos para apoyar decisiones de gestión de personal.
+- **Finanzas Personales** — Seguimiento de ingresos y gastos con control presupuestario mensual.
 
-### 🥉 My Itinerary — Plataforma social de viajes  
-Aplicación tipo red social para viajeros con gestión de itinerarios y comunidad.
-
-- 👤 Autenticación y roles  
-- 🌍 Gestión de destinos e itinerarios  
-- 💬 Interacción entre usuarios  
-- ⚡ Frontend animado y dinámico  
-
-- 🔗 [Frontend](https://github.com/Guillermo-Costilla/mytinerary-app)  
-- 🔗 [Backend](https://github.com/Guillermo-Costilla/mytinerary-back-guillermocostilla)  
-- 🌐 [Demo](https://mytinerary-sso4.vercel.app/)
+🌐 Portfolio con dashboards interactivos: [portfolio-gc-sand.vercel.app](https://portfolio-gc-sand.vercel.app/)
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Stack técnico
 
-### Frontend
-HTML5 · CSS3 · JavaScript · React · Vite · Tailwind CSS  
+**Bases de datos y modelado**
+SQL Server (T-SQL, ETL, esquema estrella) · MySQL · SQLite
 
-### Backend
-Node.js · Express  
+**Business Intelligence**
+Power BI (DAX, Power Query, modelado) · Tableau · Excel avanzado
 
-### Bases de datos
-MongoDB · SQL Server · MySQL · SQLite / Turso  
+**Análisis y programación**
+Python (análisis exploratorio, ETL) · Git / GitHub
 
-### Herramientas
-Zustand · Redux · JWT · Stripe · Nodemailer  
+**Desarrollo** *(background complementario)*
+JavaScript · React · Node.js
 
 ---
 
 ## 🎯 En qué me enfoco
 
-- 🧠 Resolver problemas con lógica clara  
-- ⚙️ Construir APIs y lógica de negocio  
-- 🎨 Crear interfaces simples y funcionales  
-- 📦 Escribir código limpio y mantenible  
-
----
-
-## 🧩 Actualmente
-
-- Profundizando JavaScript para mejorar profesionalmente  
-- Construyendo proyectos full stack reales  
-- Aprendiendo análisis de datos (complementario)  
+- 🧠 Modelar datos con lógica clara y escalable
+- 📊 Construir dashboards que respondan preguntas de negocio, no que solo muestren números
+- 🔍 Encontrar patrones que no son obvios a simple vista
+- 📦 Documentar y versionar cada proyecto de forma profesional
 
 ---
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-costilla-6772a725a/)  
-- 📧 gcostilla.dev@gmail.com 
-- 🌐 https://portfolio-gc-sand.vercel.app/  
+- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-costilla-6772a725a/)
+- 📧 gcostilla.dev@gmail.com
+- 🌐 [Portfolio](https://portfolio-gc-sand.vercel.app/)
 
 ---
 
-⭐ Abierto a oportunidades como Full Stack Developer.
+⭐ Abierto a oportunidades como Analista de Datos / BI.
